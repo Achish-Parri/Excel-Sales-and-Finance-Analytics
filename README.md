@@ -1,5 +1,3 @@
-# Excel-Sales-and-Finance-Analytics
-This repository contains a collection of sales and finance analytics reports created using Microsoft Excel. 
 ## Sales Report :
 
 
@@ -8,6 +6,8 @@ This repository contains a collection of sales and finance analytics reports cre
     **1.** Create a _[customer performance report](https://github.com/Achish-Parri/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Achish-Parri/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Targets%20Report.pdf)_
+
+    **3.** Analyse the _[Top 10 products](https://github.com/Achish-Parri/Excel-Sales-and-Finance-Analytics/blob/main/Top%2010%20Products%20report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
